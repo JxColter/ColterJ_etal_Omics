@@ -13,7 +13,7 @@ The repository is organized into four analytical components:
 
 The analyses evaluate how culture platform, dynamic suspension, agitation rate, and oxygenation affect molecular features of hiPSC state. Experimental transcriptional responses are additionally compared with gastrulation-stage developmental reference programs to quantify Epiblast-aligned and lineage-aligned transcriptional changes.
 
-## Repository structure
+## Coding structure utilized
 
 ```text
 Experimental/
